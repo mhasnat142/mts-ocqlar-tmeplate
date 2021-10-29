@@ -1,0 +1,106 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1910" height="591" viewBox="0 0 1910 591">
+  <defs>
+    <filter id="Rectangle" x="0" y="0" width="951.125" height="152" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="15" result="blur"/>
+      <feFlood flood-opacity="0.118"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle-2" x="958.875" y="0" width="951.125" height="152" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="15" result="blur-2"/>
+      <feFlood flood-opacity="0.118"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle-3" x="0" y="146" width="951.125" height="152" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="15" result="blur-3"/>
+      <feFlood flood-opacity="0.118"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle-4" x="0" y="293" width="951.125" height="152" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="15" result="blur-4"/>
+      <feFlood flood-opacity="0.118"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle-5" x="0" y="439" width="951.125" height="152" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="15" result="blur-5"/>
+      <feFlood flood-opacity="0.118"/>
+      <feComposite operator="in" in2="blur-5"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle-6" x="958.875" y="146" width="951.125" height="152" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="15" result="blur-6"/>
+      <feFlood flood-opacity="0.118"/>
+      <feComposite operator="in" in2="blur-6"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle-7" x="958.875" y="293" width="951.125" height="152" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="15" result="blur-7"/>
+      <feFlood flood-opacity="0.118"/>
+      <feComposite operator="in" in2="blur-7"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_5423" data-name="Group 5423" transform="translate(-5 -24405)">
+    <g id="Group_4047" data-name="Group 4047">
+      <g transform="matrix(1, 0, 0, 1, 5, 24405)" filter="url(#Rectangle)">
+        <rect id="Rectangle-8" data-name="Rectangle" width="861.125" height="62" rx="10" transform="translate(45 45)" fill="#fff"/>
+      </g>
+      <text id="Does_Ocqlar_Work_On_Windows_and_Mac_" data-name="Does Ocqlar Work On Windows and Mac?" transform="translate(73 24464)" fill="#233d63" font-size="25" font-family="Poppins-BoldItalic, Poppins" font-weight="700" font-style="italic"><tspan x="-264.05" y="26">Does Ocqlar Work On Windows and Mac?</tspan></text>
+      <path id="Icon_ionic-ios-arrow-down" data-name="Icon ionic-ios-arrow-down" d="M18,20.679l8.93-8.937a1.681,1.681,0,0,1,2.384,0,1.7,1.7,0,0,1,0,2.391L19.2,24.258a1.685,1.685,0,0,1-2.327.049L6.68,14.14a1.688,1.688,0,0,1,2.384-2.391Z" transform="translate(851.733 24463.002)"/>
+    </g>
+    <g id="Group_4050" data-name="Group 4050">
+      <g transform="matrix(1, 0, 0, 1, 5, 24405)" filter="url(#Rectangle-2)">
+        <rect id="Rectangle-9" data-name="Rectangle" width="861.125" height="62" rx="10" transform="translate(1003.87 45)" fill="#fff"/>
+      </g>
+      <text id="Do_We_Get_Any_Step-By-Step_Training_" data-name="Do We Get Any Step-By-Step Training?" transform="translate(1031.875 24464)" fill="#233d63" font-size="25" font-family="Poppins-BoldItalic, Poppins" font-weight="700" font-style="italic"><tspan x="-249.55" y="26">Do We Get Any Step-By-Step Training?</tspan></text>
+      <path id="Icon_ionic-ios-arrow-down-2" data-name="Icon ionic-ios-arrow-down" d="M18,20.679l8.93-8.937a1.681,1.681,0,0,1,2.384,0,1.7,1.7,0,0,1,0,2.391L19.2,24.258a1.685,1.685,0,0,1-2.327.049L6.68,14.14a1.688,1.688,0,0,1,2.384-2.391Z" transform="translate(1810.607 24463.002)"/>
+    </g>
+    <g id="Group_4046" data-name="Group 4046" transform="translate(0 -0.41)">
+      <g transform="matrix(1, 0, 0, 1, 5, 24405.41)" filter="url(#Rectangle-3)">
+        <rect id="Rectangle-10" data-name="Rectangle" width="861.125" height="62" rx="10" transform="translate(45 191)" fill="#fff"/>
+      </g>
+      <text id="Is_there_a_money-back_guarantee_" data-name="Is there a money-back guarantee?" transform="translate(73 24610.41)" fill="#233d63" font-size="25" font-family="Poppins-BoldItalic, Poppins" font-weight="700" font-style="italic"><tspan x="-224.55" y="26">Is there a money-back guarantee?</tspan></text>
+      <path id="Icon_ionic-ios-arrow-down-3" data-name="Icon ionic-ios-arrow-down" d="M18,20.679l8.93-8.937a1.681,1.681,0,0,1,2.384,0,1.7,1.7,0,0,1,0,2.391L19.2,24.258a1.685,1.685,0,0,1-2.327.049L6.68,14.14a1.688,1.688,0,0,1,2.384-2.391Z" transform="translate(851.733 24609.412)"/>
+    </g>
+    <g id="Group_4049" data-name="Group 4049" transform="translate(0 146.59)">
+      <g transform="matrix(1, 0, 0, 1, 5, 24258.41)" filter="url(#Rectangle-4)">
+        <rect id="Rectangle-11" data-name="Rectangle" width="861.125" height="62" rx="10" transform="translate(45 338)" fill="#fff"/>
+      </g>
+      <text id="Is_there_a_money-back_guarantee_2" data-name="Is there a money-back guarantee? " transform="translate(73 24610.41)" fill="#233d63" font-size="25" font-family="Poppins-BoldItalic, Poppins" font-weight="700" font-style="italic"><tspan x="-224.55" y="26">Is there a money-back guarantee? </tspan></text>
+      <path id="Icon_ionic-ios-arrow-down-4" data-name="Icon ionic-ios-arrow-down" d="M18,20.679l8.93-8.937a1.681,1.681,0,0,1,2.384,0,1.7,1.7,0,0,1,0,2.391L19.2,24.258a1.685,1.685,0,0,1-2.327.049L6.68,14.14a1.688,1.688,0,0,1,2.384-2.391Z" transform="translate(851.733 24609.412)"/>
+    </g>
+    <g id="Group_4053" data-name="Group 4053" transform="translate(0 292.59)">
+      <g transform="matrix(1, 0, 0, 1, 5, 24112.41)" filter="url(#Rectangle-5)">
+        <rect id="Rectangle-12" data-name="Rectangle" width="861.125" height="62" rx="10" transform="translate(45 484)" fill="#fff"/>
+      </g>
+      <text id="Are_there_any_usage_Limitations_" data-name="Are there any usage ‘Limitations’?" transform="translate(73 24610.41)" fill="#233d63" font-size="25" font-family="Poppins-BoldItalic, Poppins" font-weight="700" font-style="italic"><tspan x="-219.788" y="26">Are there any usage ‘Limitations’?</tspan></text>
+      <path id="Icon_ionic-ios-arrow-down-5" data-name="Icon ionic-ios-arrow-down" d="M18,20.679l8.93-8.937a1.681,1.681,0,0,1,2.384,0,1.7,1.7,0,0,1,0,2.391L19.2,24.258a1.685,1.685,0,0,1-2.327.049L6.68,14.14a1.688,1.688,0,0,1,2.384-2.391Z" transform="translate(851.733 24609.412)"/>
+    </g>
+    <g id="Group_4052" data-name="Group 4052" transform="translate(0 -146.82)">
+      <g id="Group_4045" data-name="Group 4045" transform="translate(934.875 292.82)">
+        <g transform="matrix(1, 0, 0, 1, -929.87, 24259)" filter="url(#Rectangle-6)">
+          <rect id="Rectangle-13" data-name="Rectangle" width="861.125" height="62" rx="10" transform="translate(1003.87 191)" fill="#fff"/>
+        </g>
+        <text id="What_Makes_Ocqlar_Better_Than_Other_Video_Apps_" data-name="What Makes Ocqlar Better Than Other Video Apps?" transform="translate(97 24464)" fill="#233d63" font-size="25" font-family="Poppins-BoldItalic, Poppins" font-weight="700" font-style="italic"><tspan x="-326.2" y="26">What Makes Ocqlar Better Than Other Video Apps?</tspan></text>
+        <path id="Icon_ionic-ios-arrow-down-6" data-name="Icon ionic-ios-arrow-down" d="M18,20.679l8.93-8.937a1.681,1.681,0,0,1,2.384,0,1.7,1.7,0,0,1,0,2.391L19.2,24.258a1.685,1.685,0,0,1-2.327.049L6.68,14.14a1.688,1.688,0,0,1,2.384-2.391Z" transform="translate(875.733 24463.002)"/>
+      </g>
+    </g>
+    <g id="Group_4051" data-name="Group 4051" transform="translate(0 146.59)">
+      <g transform="matrix(1, 0, 0, 1, 5, 24258.41)" filter="url(#Rectangle-7)">
+        <rect id="Rectangle-14" data-name="Rectangle" width="861.125" height="62" rx="10" transform="translate(1003.87 338)" fill="#fff"/>
+      </g>
+      <text id="Can_I_upload_my_own_SVG_images_audio_and_into_Ocqlar_" data-name="Can I upload my own SVG images, audio and into Ocqlar?" transform="translate(1031.875 24610.41)" fill="#233d63" font-size="25" font-family="Poppins-BoldItalic, Poppins" font-weight="700" font-style="italic"><tspan x="-369.237" y="26">Can I upload my own SVG images, audio and into Ocqlar?</tspan></text>
+      <path id="Icon_ionic-ios-arrow-down-7" data-name="Icon ionic-ios-arrow-down" d="M18,20.679l8.93-8.937a1.681,1.681,0,0,1,2.384,0,1.7,1.7,0,0,1,0,2.391L19.2,24.258a1.685,1.685,0,0,1-2.327.049L6.68,14.14a1.688,1.688,0,0,1,2.384-2.391Z" transform="translate(1810.607 24609.412)"/>
+    </g>
+  </g>
+</svg>

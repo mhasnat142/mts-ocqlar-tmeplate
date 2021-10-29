@@ -1,0 +1,103 @@
+.wrapper{
+
+}
+.logo{
+    text-align: center;
+}
+
+.section1{
+    position: relative; 
+    margin-top: 49px;
+}
+.group668 {
+    position: absolute;
+    left: 332px;
+    bottom: 1542px;
+    z-index: 1;
+}
+.group668 img
+{
+  width: 100%;
+    max-width: 129px;
+}
+.group1801 {
+    position: absolute;
+    left: 286px;
+    bottom: 1153px;
+    z-index: 1;
+}
+.group1801 img {
+    width: 100%;
+    max-width: 92px;
+}
+.animationVideo {
+    position: absolute;
+    left: 435px;
+    top: -1488px;
+    z-index: 1;
+}
+.animationVideo img
+{
+    width: 100%; 
+    max-width: 928px;
+}
+.animationVideo h1
+
+{
+    color: #233D63;
+    font-family: poppins;
+    font-weight: 600;
+    position: absolute;
+    top: 47px;
+    left: 76px;
+    text-align: center;
+    font-size: 33px;
+}
+.group1796{
+
+    position: absolute;
+    right: 439px;
+    bottom: 1564px;
+    z-index: 1;
+}
+.group1796 img{
+    max-width: 61px;
+     width: 100%;
+    
+}
+.group4443 {
+    position: absolute;
+    right: 329px;
+    bottom: 1091px;
+    z-index: 1;
+}
+.group4443 img{
+    width: 100%;
+    max-width: 265px;
+    
+}
+
+.group3178 {
+    position: absolute;
+    top: 1528px;
+    left: 249px;
+}
+.group3178{
+    position: absolute;
+    left: 436px;
+}
+.group3178 img{
+    width: 100%;
+    max-width: 640px;
+}
+
+
+
+
+
+
+
+
+
+
+
